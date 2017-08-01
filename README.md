@@ -10,11 +10,11 @@
 
 **Ejemplos**
 
-+ [`api_image.py`](#cabecera1)- Crear imagenes aleatorias
++ [`api_image.py`](#api_image)- Crear imagenes aleatorias
 
 ***
 
-### **api_image**(#cabecera1)
+### **api_image**
 
 *Script para crear imagenes aleatorias de diferentes temas.*
 
