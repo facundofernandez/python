@@ -14,7 +14,7 @@
 
 ***
 
-### **api_image**{#cabecera1}
+### **api_image**(#cabecera1)
 
 *Script para crear imagenes aleatorias de diferentes temas.*
 
@@ -22,4 +22,3 @@
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
 
-<a name="there_you_go"></a>Take me there
