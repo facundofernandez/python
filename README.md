@@ -1,5 +1,5 @@
 [logo]: https://bugs.python.org/@@file/favicon.ico "Logo"
-[imgVideo_api_image]: https://lh4.googleusercontent.com/HovQEMamZAQCCR5UemcjVN-W7ayyHgdglCVxY7Z-b4wxijVgea0k8-4ufCfIbqM9PDFn14KX-UJXI4Q=w1920-h925
+[imgVideo_api_image]: https://lh5.googleusercontent.com/Uhr1osiE28mpwSoIaolhiirCmLyVF8cZM7yADG9iZujSwhrl2tlDzXt5BYmyTtqD8IZwKLH4fhKWxKE=w1920-h974
 
 
 # Aprendiendo Python ![alt text][logo]
