@@ -19,8 +19,8 @@ from librerias.funciones import cls
 cls()
 
 url = "http://lorempixel.com"
-tipos = ["abstracto", "animales", "negocios", "gatos", "ciudad", "comida", "noche", 
-         "vida", "moda", "personas", "naturaleza", "deportes", "technics", "transporte"]
+tipos = ["abstract", "animals", "business", "cats", "city", "food", "nightlife", 
+         "fashion", "people", "nature", "sports", "technics", "transport"]
          
 directorio_img = "img"
 
@@ -51,7 +51,8 @@ if os.path.exists(directorio_img):
     shutil.rmtree(directorio_img)
 
 os.makedirs(directorio_img) #creo directorio donde se guardan
-
+print("%s/%s/%s/%s" % (url, ancho, alto, tipos[int(tipo)]))
+exit
 #Creo imagen deacuerdo a las opciones y la guardo en la carpeta
 for img in range(cantidad):
     url_req = "%s/%s/%s/%s" % (url, ancho, alto, tipos[int(tipo)])
