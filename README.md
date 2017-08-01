@@ -24,3 +24,4 @@
 
 (*[ver Archivo](../master/api_image.py)*)
 
+ <i class="icon-file"></i>
