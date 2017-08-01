@@ -22,5 +22,5 @@
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
 
-(*[ver Archivo](../blob/master/api_image.py)*)
+(*[ver Archivo](../master/api_image.py)*)
 
