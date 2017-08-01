@@ -24,7 +24,5 @@
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
 
-[![video][imgVideo_api_image]][video_api_image]
-
 :page_facing_up:(*[ver Archivo](../master/api_image.py)*)
 
