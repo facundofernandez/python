@@ -14,11 +14,13 @@
 
 ***
 
-### **api_image** (*[source](../blob/master/api_image.py)*)
+### **api_image** 
 
 *Script para crear imagenes aleatorias de diferentes temas.*
 
 + Se ingresara Ancho, Alto, tipo de imagen y cantidad de img . 
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
+
+(*[ver Archivo](../blob/master/api_image.py)*)
 
