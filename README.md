@@ -1,6 +1,6 @@
 [logo]: https://bugs.python.org/@@file/favicon.ico "Logo"
-[imgVideo_api_image]: http://img.youtube.com/vi/_WpeMuZg_W4/0.jpg
-[video_api_image]: http://www.youtube.com/watch?v=_WpeMuZg_W4
+[imgVideo_api_image]: https://drive.google.com/open?id=0B0amFghwwtpIY19INWJyemV5NlE
+
 
 # Aprendiendo Python ![alt text][logo]
 
@@ -23,6 +23,8 @@
 + Se ingresara Ancho, Alto, tipo de imagen y cantidad de img . 
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
+
+[alt text][imgVideo_api_image]
 
 :page_facing_up:(*[ver Archivo](../master/api_image.py)*)
 
