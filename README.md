@@ -11,7 +11,7 @@
 **Ejemplos**
 
 + [`api_image.py`](#cabecera1)- Crear imagenes aleatorias
-<a name="there_you_go"></a>Take me there
+
 ***
 
 ### **api_image**{#cabecera1}
@@ -21,3 +21,5 @@
 + Se ingresara Ancho, Alto, tipo de imagen y cantidad de img . 
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
+
+<a name="there_you_go"></a>Take me there
