@@ -26,5 +26,5 @@
 
 ![alt text][imgVideo_api_image]
 
-:page_facing_up:(*[ver Archivo](../master/api_image.py)*)
+:page_facing_up:(*[ver Archivo](../master/archivos/api_image.py)*)
 
