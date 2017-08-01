@@ -22,5 +22,7 @@
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
 
+ [[vimeo-{16by9}-{46167294}]]
+
 :page_facing_up:(*[ver Archivo](../master/api_image.py)*)
 
