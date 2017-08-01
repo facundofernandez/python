@@ -14,7 +14,7 @@
 
 ***
 
-### **api_image**
+### **api_image** (*[source](../blob/master/api_image.py)*)
 
 *Script para crear imagenes aleatorias de diferentes temas.*
 
