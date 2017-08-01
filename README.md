@@ -22,6 +22,5 @@
 + Se utiliza la web http://lorempixel.com para generar las imagenes. 
 + Se crea un directorio llamado imágenes donde las colocara.
 
-(*[ver Archivo](../master/api_image.py)*)
+:page_facing_up:(*[ver Archivo](../master/api_image.py)*)
 
- <i class="icon-file"></i>
